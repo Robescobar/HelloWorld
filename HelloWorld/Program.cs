@@ -11,7 +11,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.ForegroundColor= ConsoleColor.Yellow;
+            Console.ForegroundColor= ConsoleColor.Red;
             Console.WriteLine("Ez már sárga színű!");
             Console.ReadKey();
         }
